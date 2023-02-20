@@ -10,7 +10,7 @@ from django.views.generic import (TemplateView,ListView,
 
 from django.urls import reverse_lazy
 from django.contrib.auth.mixins import LoginRequiredMixin
-
+######### class based views##########
 class AboutView(TemplateView):
     template_name = 'about.html'
 
