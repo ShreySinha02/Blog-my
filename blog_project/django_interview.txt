@@ -1,0 +1,40 @@
+Sure, I'd be happy to conduct an interview on Django!
+
+Can you explain what Django is and what it is used for?
+What are some advantages of using Django for web development?
+What is the role of views in Django, and how do they interact with templates?
+Can you explain the difference between a Django project and a Django app?
+How does Django handle user authentication and permissions?
+Can you walk me through the process of creating a new model in Django?
+How does Django handle database migrations?
+What are some common security concerns in Django, and how can they be addressed?
+Can you explain the difference between class-based views and function-based views in Django?
+Have you used any third-party Django packages? If so, which ones and for what purpose?
+
+
+//...................................................//............................................
+What is Django, and what are some of its key features?
+How does Django handle URL routing and view functions?
+What is an ORM, and how does Django's ORM work?
+Can you explain the difference between a model and a form in Django?
+How does Django handle database migrations, and what are some best practices for managing them?
+How does Django handle user authentication and authorization, and what are some common security concerns in this area?
+What is the role of middleware in Django, and can you provide some examples of middleware that are commonly used?
+How does Django's caching framework work, and what are some best practices for implementing caching in Django?
+Can you explain the difference between a Django project and a Django app, and when you might use each one?
+Have you used any third-party Django packages, and if so, which ones and for what purpose?
+
+
+///////////////////////////////////////////Answer/////////////////////////////////////////////
+Django is a high-level Python web framework that allows developers to quickly and easily build complex,
+database-driven websites and applications. It provides a lot of the tools and functionality that developers
+need to create robust, scalable web applications, including an ORM (Object-Relational Mapping) system for 
+working with databases, a templating system for building user interfaces, and a powerful URL routing system
+for handling incoming requests.
+
+
+An ORM (Object-Relational Mapping) is a programming technique that allows developers to work with databases using
+object-oriented programming constructs, rather than having to interact with the database directly using SQL.
+Django's ORM is a key part of the framework, and is used by developers to interact with the database and manage
+application data. The ORM in Django is built around the concept of models, which are Python classes that represent
+database tables.
